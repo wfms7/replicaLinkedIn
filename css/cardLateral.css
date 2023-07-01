@@ -1,0 +1,41 @@
+
+.cardLateral2{
+    grid-area: cardLateral2;
+    margin: 1rem 0;
+}
+.cardLateral1__titulo{
+    padding: 1rem 1rem .5rem 1rem;
+}
+.carLateral1__container{
+    display: flex;
+    
+    padding:  1rem;
+
+    align-items: center;
+    gap: .5rem;
+}
+.cardlateral1Nome{
+    font-size: 14px;
+    font-weight: 700;
+}
+.cardlateral1Titulo{
+    font-size: 12px;
+    font-weight: 400;
+    color: var(--texto-secundario);
+    margin: .2rem 0;
+}
+
+.cardLateral1__btn-container{
+    text-align: center;
+}
+
+.cardLateral1__btn-enviar-mensagem{
+
+   
+   display: inline-block;
+    margin: 0 0 1em 0;
+    padding: .2rem 1rem ;
+
+    border: 1px solid var(--texto-principal);
+    border-radius: 15px;
+}

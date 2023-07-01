@@ -1,0 +1,25 @@
+.cardCenter__container{
+    
+    width: 800px;
+    
+    background-color: var(--fundo-card);
+    border-radius: 16px;
+    overflow: hidden;
+    margin-bottom: 1rem ;
+
+
+}
+
+.cardCenter__titulo{
+    padding: 1rem 0 0 1rem ;
+ font-size: 20px;
+ font-weight: 600;
+}
+
+.cardLareral{
+    width: 320px;
+    max-width: 320px;
+    background-color: var(--fundo-card);
+    border-radius: 16px;
+    overflow: hidden; 
+}

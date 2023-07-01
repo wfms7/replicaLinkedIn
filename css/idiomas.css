@@ -1,0 +1,10 @@
+
+.Idiomas__lingua{
+    padding: 1rem 1rem .5rem 1rem;
+}
+.Idiomas__nivel{
+    padding: 0 1rem;
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--texto-secundario);
+}

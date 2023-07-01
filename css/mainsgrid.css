@@ -1,0 +1,10 @@
+.main__grid{
+    display: grid;
+    grid-template-columns: auto auto ;
+   
+    justify-content: center;
+    justify-items: center;
+    margin: 2rem 0 3rem 0;
+    column-gap: 2rem;
+    
+}

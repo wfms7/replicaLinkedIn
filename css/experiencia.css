@@ -1,0 +1,50 @@
+
+.experiencia__container-img-info{
+    display: flex;
+    padding: 1rem;
+    gap: 1rem;
+    align-items: center;
+}
+.experiencia__titulo{
+    font-size: 16px;
+    font-weight: 600;
+    
+}
+.experincia__tempo{
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.experiencia__periodo , .experiencia__local{
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--texto-secundario);
+}
+
+.experincia__container{
+    display: grid;
+    grid-template-columns: auto 1fr;
+    align-items: center;
+  
+    column-gap: 2rem;
+    row-gap: .2rem;
+    padding: 0.2rem 2.5rem ;
+}
+.experiencia__elipse{
+    background-color: var(--cinza);
+    width: 9px;
+    height: 9px;
+    border-radius: 100%;
+}
+.experincia__linha-vertical{
+
+ background-color: var(--cinza);
+ margin: 0 auto;
+ width: .5px;
+ height: 54px;   
+}
+
+.formacaoacademeica_curso{
+    font-size: 14px;
+    font-weight: 400;
+}
